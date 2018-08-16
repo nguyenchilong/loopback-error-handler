@@ -72,5 +72,5 @@
 		"posttest": "npm run lint",
 		"test": "mocha"
 	},
-	"version": "2.3.2"
+	"version": "1.0.0"
 }
